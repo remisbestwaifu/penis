@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\aaron\source\repos\project6\project6\source.cpp(132): warning C4101: 'fraction1': unreferenced local variable
+c:\users\aaron\source\repos\project6\project6\source.cpp(132): warning C4101: 'fraction2': unreferenced local variable
+  Project6.vcxproj -> C:\Users\Aaron\source\repos\Project6\Debug\Project6.exe
